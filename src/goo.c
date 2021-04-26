@@ -3,7 +3,7 @@
 
 int goo()
 {
-	printf("hello goo world!\n");
-	
+	printf("goo\n");
+
 	return 1;
 }
