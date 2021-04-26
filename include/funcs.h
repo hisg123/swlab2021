@@ -1,7 +1,7 @@
 #ifndef FUNCS_H
 #define FUNCS_H
 
-int foo(int);
+int foo(void);
 int goo(void);
 
 #endif
